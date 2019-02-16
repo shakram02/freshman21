@@ -53,10 +53,11 @@ ul, ol, dl, figure,
   padding-left: $spacing-unit;
   padding-top:30px;
 
-  background-color:#fff;
+  background-color:#303030;
   margin-top:20px;
   margin-bottom:30px;
-  box-shadow: 1px 1px 10px #BBB;
+  box-shadow: 1px 1px 10px #333;
+  border-bottom: 1px solid $brand-color;
 }
 
 /*for media*/
@@ -138,33 +139,18 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $brand-top-color;
+  color: $link-color;
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-top-color, 25%);
+	color: darken($link-color, 15%);
+	text-decoration: overline
   }
 
   &:hover {
-    color: #669900; //$hover-color;
+    color: $hover-color; //$hover-color;
     text-decoration: underline;
   }
-}
-
-
-.post-content a{
-  color: $brand-color;    
-  text-decoration: none;  
-  border-bottom: 1px dotted;
-  &:visited {             
-    color: darken($brand-color, 25%);
-  }                       
-
-  &:hover {               
-    color: $hover-color;
-    text-decoration: none;
-  }  
-
 }
 
 /**
@@ -174,19 +160,11 @@ a {
 blockquote{
   padding: 0 1em;
   margin: 14px 0;
-  border: 2px dashed #d0dfda;
+  border: 2px dashed $secondary-color-dark;
   border-radius: 5px;
-  color: $grey-color;
+  color: $secondary-color;
   font-size: 18px;
-  background: #f9f9f9;
-
-  &:hover {
-    color: #454545;
-  }
-
-  > :last-child {
-    margin-bottom: 0;
-  }
+  background: $background-color;
 }
 
 
@@ -266,7 +244,7 @@ pre {
     vertical-align: middle;
 
     path {
-      fill: $grey-color;
+      fill: $secondary-color;
     }
   }
 }
