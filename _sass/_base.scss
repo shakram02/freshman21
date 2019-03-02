@@ -142,10 +142,10 @@ a {
   color: $link-color;
   text-decoration: none;
 
-  &:visited {
-	color: darken($link-color, 15%);
-	text-decoration: overline
-  }
+//   &:visited {
+// 	color: darken($link-color, 15%);
+// 	text-decoration: overline
+//   }
 
   &:hover {
     color: $hover-color; //$hover-color;
