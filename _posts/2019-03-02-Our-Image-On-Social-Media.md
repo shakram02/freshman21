@@ -26,15 +26,9 @@ Our image is just one part of the story, that's makes facebook to us a place tha
 If you're excited to know about addictive apps in our lives, I highly recommend reading the following:
 
 1) [The scientists who make apps addictive](https://www.1843magazine.com/features/the-scientists-who-make-apps-addictive)
-	
-	``` 
-	Tech companies use the insights of behaviour design to keep us returning to their products. But some of the psychologists who developed the science of persuasion are worried about how it is being used
-	```
+> Tech companies use the insights of behaviour design to keep us returning to their products. But some of the psychologists who developed the science of persuasion are worried about how it is being used
 
 2) [The Tech Industry’s War on Kids](https://medium.com/@richardnfreed/the-tech-industrys-psychological-war-on-kids-c452870464ce)
-	
-	```
-	How psychology is being used as a weapon against children
-	```
+> How psychology is being used as a weapon against children
 
 I might write about that later, thanks for reading!
