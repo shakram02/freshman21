@@ -5,6 +5,7 @@ comments: yes
 permalink: /about/
 ---
 
+*This is the template author's about*
 
 ### Freshman21 is a Jekyll theme.
 
