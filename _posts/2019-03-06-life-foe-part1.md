@@ -8,8 +8,7 @@ tags: undergrad life
 comments: true
 ---
  ![intro-photo](/images/frightening-troll-toy.jpeg)
-  [Photo by Toni Cuenca from Pexels](https://www.pexels.com/photo/background-black-black-and-white-creepy-619419/)
-
+  
 This article discusses what it is to be a computer scientist/engineer from my humble *personal* point of view. Read this article if you want to know what you should feel like after graduation and if you want to know if you're keeping on track.
 
 If you came by this post you're probably an undergrad, during my undergrad study life wasn't easy as I didn't really know what most of the subjects would mean to me after I graduate, 
@@ -57,5 +56,7 @@ To be a good engineer you have to delve into the internals of what's around you 
 ## More on that?
 
 Give Paul Graham's article [Undergraduation](http://www.paulgraham.com/college.html) a try. Paul Graham mentioned hackery in his article, [this](http://www.catb.org/esr/faqs/hacker-howto.html#what_is) is one explanation for it by Eric Raymond
+
+[Intro Photo by Toni Cuenca from Pexels](https://www.pexels.com/photo/background-black-black-and-white-creepy-619419/)
 
 Enjoy!
