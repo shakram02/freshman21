@@ -10,6 +10,8 @@ comments: true
 
 Children exist when they're young!, I was impressed when I noticed that too, but we're talking about two different things so let me clarify.
 
+<!-- end_excerpt -->
+
 ## Memories?
 > Do children have an existence with respect to themselves?
 

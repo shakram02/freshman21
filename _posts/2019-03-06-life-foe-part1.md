@@ -11,6 +11,8 @@ comments: true
   
 This article discusses what it is to be a computer scientist/engineer from my humble *personal* point of view. Read this article if you want to know what you should feel like after graduation and if you want to know if you're keeping on track.
 
+<!-- end_excerpt -->
+
 If you came by this post you're probably an undergrad, during my undergrad study life wasn't easy as I didn't really know what most of the subjects would mean to me after I graduate, 
 
 > I made many false assumptions about subjects and marked them as not important.

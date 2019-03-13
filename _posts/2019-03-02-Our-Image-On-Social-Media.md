@@ -9,6 +9,8 @@ comments: true
 ---
 Do you use Facebook (or other social media)? Yes, you probably do. Do you want like it's not a good thing to use Facebook or that it wastes your time?...
 
+<!-- end_excerpt -->
+
 I won't answer that question but it seems that many of us actually hate facebook or at least want to use it less often. Let's think about that, isn't this dangerous? imagine that there's some sort of food that you know that it'll make you gain weight, but you keep eating it because you can't help it. I guess it's safe that we can call this addiction. We're **addicted** to facebook.
 
 To get addicted to something like drugs, addiction happens because drugs give our brains some chemicals that make us feel happy or whatever. What about facebook, what makes us hooked?
