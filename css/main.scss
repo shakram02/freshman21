@@ -6,7 +6,7 @@
 
 
 // Our variables
-$base-font-family: 'Helvetica' !important;
+$base-font-family: 'Lato' !important;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.6em;
@@ -56,10 +56,12 @@ $on-laptop:        800px;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
-        "layout",
+		"layout",
+		"lato",
         "_syntax-highlighting-native" // "syntax-highlighting"
 ;
 
+// @import "../fonts/lato";
 @import url('http://fonts.googleapis.com/css?family=Open+Sans');
-@import url('http://fonts.googleapis.com/css?family=Lato');
+
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
