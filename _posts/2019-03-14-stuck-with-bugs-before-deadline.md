@@ -1,6 +1,6 @@
 ---
 published: true
-title: Tips for new engineers
+title: Stuck with bugs before a deadline?
 layout: post
 author: Shakram02
 category: life-of-an-undergrad
@@ -8,14 +8,13 @@ tags: undergrad-life
 comments: true
 ---
 
-NullPointerException, IndexOutOfBoundException and program crashes love you but you can't love them back?
+NullPointerException, IndexOutOfBoundException and program crashes love first year students but they can't love them back especially when a deadline is close.
 
 <!-- end_excerpt -->
 
-Here are some tips to save your time. 
-Invest a couple of minutes reading the post rather than wasting hours trying to fix your code
+It's the case that tooling and debuggers aren't covered through the basic programming courses in our college, tools improve your process and help you utilize your time better. You should always know what's available before starting any project and use that to save your time in the project (unless you're asked to implement that thing for sure). It might be the case that you're just stuck with your code and can't find what's going wrong, before doing much effort, use the tools available. I discuss some of them here.
 
-Here's what you should do to save your time:
+Here's what you should do to save your time and effort.
 
 ## Use a "debugger"
 
