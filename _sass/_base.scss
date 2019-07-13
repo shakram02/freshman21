@@ -124,12 +124,14 @@ figcaption {
 ul,
 ol {
     margin-left: $spacing-unit;
+    font-size: $base-font-size;
 }
 
 li {
     > ul,
     > ol {
         margin-bottom: 0;
+        font-size: $base-font-size;
     }
 }
 

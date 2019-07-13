@@ -28,6 +28,14 @@
 <script src="{{ "/js/jquery-3.3.1.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/js/flowtype.js" | prepend: site.baseurl }}"></script>  
 
+
+{% if page.header-img %}
+    <meta property="og:image" content="{{ site.url }}/{{ page.header-img }}" />
+{% endif %}
+
+<meta property="og:description" content="{{ page.excerpt }}" />
+
+
 {% include google_search.js %}
 {% include google_analytics.js %}
 {% include ban.js %}
