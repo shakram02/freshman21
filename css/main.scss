@@ -12,16 +12,22 @@ $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.6em;
 
 $spacing-unit:     15px;
+$light-accent-color:     #FFB454;
+$dark-accent-color:      #FF7733;
 
-$text-color:       #DDD;
-$background-color: #030405;
-$brand-color:      #0EA9F9;
-$brand-top-color:  lighten($text-color, 60%);
+$text-color:       #C5C5C5;
+$background-color: #14191F;
+$header-color:     $dark-accent-color;
 
-$link-color:	   #0EA8F9;
+$brand-color:      $light-accent-color;
+$brand-top-color:  $dark-accent-color;
+
+$link-color:	   $light-accent-color;
+$link-sidebar-color: lighten($dark-accent-color,15%);
+
 $hover-color:      #E5E5E5;
 
-$secondary-color:       #DDD;
+$secondary-color:       lighten(#C8C9DB,15%);
 $secondary-color-light: lighten($secondary-color, 40%);
 $secondary-color-dark:  darken($secondary-color, 25%);
 

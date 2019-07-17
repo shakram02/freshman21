@@ -15,7 +15,7 @@ github_username:  shakram02
 disqus_shortname: shakram02
 favicon:     "/images/favicon.ico"
 aboutme: Hi, this is Ahmed Hamdy. I trying to find answers to my questions about life and I code through this journey. # these are shown on aboutme-sidebar.
-aboutme_photo: ./images/Le-Me.jpg # your photo.
+aboutme_photo: "/images/Le-Me.jpg" # your photo.
 google_analytics_key: #UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 
 
