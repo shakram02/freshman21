@@ -8,16 +8,17 @@ category:  reflections
 tags: life philosophy
 comments: true
 ---
-Hey! do you want to become a NO-body? this guide is for you.
+Hey! This is the 1 thing you need to do to be happy.
+
+![intro-image]({{site.baseurl}}/images/howto-nobody/banner.png)
 
 <!-- end_excerpt -->
-<!-- <img src="../images/howto-nobody/banner.png"/> -->
-![intro-image]({{site.baseurl}}/images/howto-nobody/banner.png)
+
 <p align="center">
-This modern piece of contemporary art is drawn by Le Me.
+This piece of contemporary art is drawn by Le Me.
 </p>
 
-Becoming a NO-body is very important nowadays, it brings lots of relief to one's life. Nobodies are much more than having a "NO" body. Understanding the consequences of becoming a NO-body is important before delving into the guide. Before I describe the process of NO-bodying, I just want to mention that the article is so redundant as the process is pretty well-known, but I'm just writing it for the sake of documentation if humans lost their social knowledge all of a sudden (but still have internet).
+Becoming a NO-body is very important nowadays, it brings lots of relief to one's life. Nobodies are much more than having a "NO" body. Understanding the consequences of becoming a NO-body is important before delving into the guide. Before I describe the process of NO-bodying, I just want to mention that the article is so redundant as the process is pretty well-known, but I'm just writing it for the sake of documentation if humans lose their social knowledge all of a sudden (but still have internet).
 
 ## The consequences
 becoming a NO-body is such a relief. You'll care less about what's happening around you, enjoy life and go to shopping every weekend and oh!, I almost forgot, you'll be a star on social media as you'll be perfect at selfie-posting, You'll also love yourself much more than any other thing in existence, there's also a good chance that you'll be less prone to chronic diseases and a good chance that you'll die while you're feeling happy, without further ado, let's dive into the guide.
@@ -73,10 +74,15 @@ What do you do for the rest of the week? you repeat this, but change the configu
 
 2) Learning something related to your field of work/study. Okay, I know that it's obvious! but I jut want to comment on people who do that. They're wierd people who didn't have enough of college and they're dying to get more of it during their free time, how annoying!. I know that what they brag about is jobs, but jobs are everywhere, they're just covering the fact that they're not social people, ignore them completely.
 
-3) Doing anything related to religion; way too old philosophical stuff that keep people fighting, why not just live in peace and forget about all things that make us fight? there's also a good chance that you'll be called a terrorist/extremist especially if you're a Muslim.
-You'll find people yelling that Muslims once ruled land from Spain to China, led science and discoveries in their age (which is something obvious if they ruled all that amount of land, just to pick two; Algebra and Algorithms) and defeated both Persians and Romans in the same year deleting the Persian empire from existence and that many countries in Europe gave them gifts and money in order to stay safe from them during the Ottoman empire, just ignore those people who say that. You didn't study that stuff in school I'm sure, so all that is probably fake, and come on!! it's just history, nobody cares about it. We're the children on the "Modern Era". History is long gone and is never important to anybody.
+3) Doing anything related to religion; way too old philosophical stuff that keep people fighting, why not just live in peace and forget about all things that make us fight? there's also a good chance that you'll be called a terrorist[^terrorist]/extremist especially if you're a Muslim.
+You'll find people yelling that Muslims once ruled land from Spain to China, led science[^why_obvious] and discoveries in their age. [This](https://www.youtube.com/watch?v=48AvhUPLznk) is a video that proves part of the face, made by Germans for Germans; Closed Captions are available in English[^cc_translate].
+
+They also defeated both Persians and Romans in the same year deleting the Persian empire from existence and that many countries in Europe gave them gifts and money in order to stay safe from them during the Ottoman empire, just ignore those people who say that. You didn't study that stuff in school I'm sure, so all that is probably fake, and come on!! it's just history, nobody cares about it. We're the children on the "Modern Era". History is long gone and is never important to anybody.
 
 4) Charity and student activities; Waste of time!, why should you care about people who aren't smart enough to take care of themselves? you'll also need to attend boring meetings where people brag about "values" and "being helpful", poor people, they're wasting their time, left all the enjoyment just for nothing. You'll hear some of them brag about the soft skills and people skills, really?! you're the all-social person, you're always with your friends and having fun, how come that they talk about those skills? how unfair life is.
+
+5) Thinking about dreams that are in terms of others; Who you care about is just *you*, you become good just for the sake of *yourself*, not for the sake of your nation, country or to be world class in your field (blah blah blah), just for the sake of yourself. People who coin their dreams in terms of something bigger than themselves are either doomed or foolish dray-dreamers. Putting your dreams in terms of you makes them easier to achieve because you'll NEVER fail to satisfy yourself, when you find something hard you say that you're satisfied with your progress without proceeding further, this way you'll become highly self achieved, let the fools continue their day-dreaming and stay in their failures.
+
 
 Weekend is close now, you must use it wisely, you'll plan to go the the beach in a remote area to relax, the week was already tough. Don't forget to take your movies with you, it might be the case that the coverage is weak there, you have to get yourself covered. Don't forget to take your power bank.
 
@@ -89,18 +95,26 @@ Meh, lots of fun is wasted when you have to work, if you don't have to work, luc
 
 
 ### Final words
-That was sarcasm. (I sometimes believe sarcasm posts, so I loved to state that it is sarcasm)
+That was sarcasm. 😂
 
 The sad part is that it's as true as sarcastic it is, what a weird reality that we live in today.
 
-NO-bodies just die, they don't change anything, they have no purpose/cause in life, they just consume, they're negative. 
+NO-bodies just die, they don't change anything, they have no purpose/cause in life, they just consume, they're negative. Nobodies don't care when someone need help, accordingly nobody will care about them when they need help, a society of nobodies is totally selfish and has vague relationships between nobodies.
 
-But yes, it's **the** comfortable option. If you don't become a NO-body, you'll have to bear as much pain as their enjoyment (LOL!). Welcome to the 'Modern Era'. 
+But yes, it's **the** comfortable option. If you don't become a NO-body, you'll have to bear as much pain as their enjoyment (LOL!). Welcome to the era of post-modernity. 
 
-There's a catch though, the NO-bodies' joy is just impulsive (a dirac delta to be precise) once they're out of the "entertainment" situation, their misery will start creeping up on them, that's why they always need to be entertained. Non NO-bodies (YES-bodies :v) on the other side are self-fulfilled, they carry their joy wherever they go because it's inside them, although the amount of joy they carry might be less than the impulsive ones the NO-bodies receive, but it's permanent.
+There's a catch though, the NO-bodies' joy is just impulsive (a dirac delta to be precise) once they're out of the "entertaining" situation, their misery will start creeping up on them, that's why they always need to be entertained. Non NO-bodies (YES-bodies 🤔?) on the other side are self-fulfilled, they carry their joy wherever they go because it's inside them, although the amount of joy they carry might be less than the impulsive ones the NO-bodies receive, but it's permanent.
 
 
 ### References
 Hmm, nothing to mention maybe except for the fact that sleeping 8 hours is healthy. You can find that in the National Sleep Foundation (I didn't bother more than finding the first .org website that I got from Google) [article](https://www.sleepfoundation.org/excessive-sleepiness/support/how-much-sleep-do-we-really-need)
 
+This video series, [Science in a Golden Age](https://www.youtube.com/watch?v=mYzPxwnGs34), explain (in English) part of the role of muslims in advancing science.
+
 Otherwise, these are my observations. I hope they're just wrong.
+
+---
+
+[^why_obvious]: *Their leadership in science* is something obvious if they ruled all that amount of land, though the land wasn't necessarily acquired by a single government, but muslims were very advanced if they could acquire that amount of land. For example; did you know that the word Camera (the cool thing for selfies today), is derived from the word "Qumra" which means a room in Arabic, Can you guess why? (and Google is your friend)
+[^cc_translate]: *English closed captions* translate the auto generated German subtitles to English from the settings and Google will do the magic
+[^terrorist]: *Terrorist* Is a person who is to a big extent unaware of religion, so much so they're driven by their instinct of hatred. They never fully understand what religion is about and it's too hard for them to conceptualize the fact the the good deeds of muslim people were a major contributor of how the religion spread. Terrorism is very contemporary, Islam is ~1450 years old, terrorism was born just in the 21st century. I feel sorry for them for losing their lives in vain and making many of other people's life much much worse. They're people who were raised in tough conditions (or had psychological problems) and went to completely waste their and other peoples' lives.

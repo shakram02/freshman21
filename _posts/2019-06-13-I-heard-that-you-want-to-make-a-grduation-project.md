@@ -7,7 +7,7 @@ category: tech
 tags: engineering
 comments: true
 ---
-![intro-image](/images/grad-proj/tunnel-end.jpg)
+![intro-image]({{site.baseurl}}/images/grad-proj/tunnel-end.jpg)
 Congratulations!, you're almost there. That's your final college project but you have no clue what to do, most of us (me included) want to make something fancy and cool, some of us just want to get the hell out of here.
 <!-- end_excerpt -->
 
