@@ -10,13 +10,15 @@ $base-font-family: 'Lato' !important;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.6em;
-
 $spacing-unit:     15px;
+
 $light-accent-color:     #FFB454;
 $dark-accent-color:      #FF7733;
+$dark-black-color:       #0F141A;
+$light-black-color:        #14191F;
 
-$text-color:       #C5C5C5;
-$background-color: #14191F;
+$text-color:             #C5C5C5;
+$background-color:       $light-black-color;
 $header-color:     $dark-accent-color;
 
 $brand-color:      $light-accent-color;
